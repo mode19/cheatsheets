@@ -1,13 +1,15 @@
 #General-unsorted stuff
 
 ## git
+todo|todo
 
 ## Awk
-
+todo|todo
 ## Unix commandline
-
+todo|todo
 ## cygwin tricks
-
+todo|todo
 ## dot language
-
+todo|todo
 ## gnuplot
+todo|todo
