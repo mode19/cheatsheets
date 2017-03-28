@@ -26,5 +26,17 @@ Paste 				                |:r ~/dump.txt
 
 
 ## Plugins
-ctrl-p()                | great for opening files (fuzzy search)
+ctrlp.vim                | great for opening files (fuzzy search)
+
+## Fun Key mappings
+Map a leader \\ d to paste | map <leader>d :w! ~/dump.txt<cr>
+Map a leader \\ p to paste | map <leader>p :r ~/dump.txt<cr>
+Map CTRL i to next buffer | map <c-i> :bnext<cr>
+Map CTRL u to prev buffer | map <c-u> :bprevious<cr>
+
+## Basic Settings
+Tab stop        |:set tabstop=4
+Tab width       |:set shiftwidth=4
+Expand tab to spaces |:set expandtab
+Smart case      | :set smartcase
 
