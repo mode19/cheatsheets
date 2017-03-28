@@ -1,8 +1,10 @@
 # SVN-SVN version control cheatsheet
 
 ## general
+working copy info               | svn info
 view history                    | svn log
 check status of local copy      | svn status
+
 
 ## adding files
 Add a file          | svn add
