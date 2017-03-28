@@ -7,11 +7,12 @@ Show available shortcuts    |CMD + shift + L
 Open a resource i.e *.java    |CMD + shift + r
 Save a file                   |CMD + s
 Close a file                  |CMD + w
+Cylce Editors Next            |CMD-F6
+Cylce Editors Previous        |shift-CMD-F6
 
 ## Search
 Search dialog                 |ctrl + H
 
-## General
+## Testing
 Run a unit test               |CMD + alt + x then T
-Cylce Editors Next            |CMD-F6
-Cylce Editors Previous        |shift-CMD-F6
+
