@@ -7,3 +7,5 @@ Show All Shortcuts      |CTRL - ?
 ## Search
 Open search dialog      |CTRL + h
 
+## File Management
+Cycle through editors   |CMD+F6 / CMD+shift+F6
