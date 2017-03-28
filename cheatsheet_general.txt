@@ -1,0 +1,13 @@
+#General-unsorted stuff
+
+## git
+
+## Awk
+
+## Unix commandline
+
+## cygwin tricks
+
+## dot language
+
+## gnuplot
