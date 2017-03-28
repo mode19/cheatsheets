@@ -23,6 +23,10 @@
       {                                                           
           "label": "ack",                                         
           "data": "ack"                                           
-      }                                                           
+      },
+    {
+      "label": "General",
+      "data": "general"
+    }
   ]                                                               
 }             
