@@ -1,0 +1,30 @@
+# VIM-Vim Editor Shortcuts/Commands
+
+## Setup/System
+locate your .vimrc				|:scriptnames
+set 256 colour terminal 		|export TERM='xterm-256color'
+
+## Search and replace
+Search/replace/global/confirm   |:%s/search/replace/gc
+
+
+## The Global Command
+all occurrences in file - p=print 				|:g/searchpatter/p 
+Get detailed help 				                |help :g
+Delete all but 				                    |:g!/matchstring/d
+
+## Files
+Explore home folder 				|:Explore ~
+explore folder 				        |:Explore ./node_modules/
+
+## Tricks
+Copy paste without formatting 		|:set [no]paste
+
+## Past/Copy to/from file
+Copy - in visual mode select text 	|:w ~/dump.txt
+Paste 				                |:r ~/dump.txt
+
+
+## Plugins
+ctrl-p()                | great for opening files (fuzzy search)
+

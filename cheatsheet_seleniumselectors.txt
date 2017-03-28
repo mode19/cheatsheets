@@ -1,0 +1,10 @@
+# Selenium Selectors-Selenium selectors http://www.seleniumhq.org/docs/03_webdriver.jsp
+
+## XPATH
+By text             |//span[contains(text(), "Add new Textbox")]
+
+## CSS
+By ID (not name)            |#idattrvalue
+By class attribute          |.classvalue
+
+

@@ -1,0 +1,40 @@
+# Atom.io-Atom Editor VIM mode Cheat Sheet
+
+## General
+Open command palette        |shift + CMD + p
+Auto-complete               |shift + CMD + p
+Open settings               |CMD + ,
+
+## Find Files
+File search                     |CMD + p
+Show current file in treeview   |CMD + |
+
+## Search Files
+Find in file            |CMD + f
+Find next               |CMD + g
+Find in project         |shift + CMD + f
+Use selection in find   |CMD +e
+
+## Window Management
+Toggle side tree view       |CMD + \
+Toggle full screen          |CDM + f
+Split pane                  |CMD + k, arrows
+Send focus to pane          |CMD +k, CMD + arrows
+
+## Navigate Tabs-Files
+Goto line                   |ctrl + g
+Goto symbol                 |ctrl + r
+Prev file                   |shift + CMD + {
+Next file                   |shift + CMD + }
+
+## Folding
+Fold current code block     |CMD + [
+Un-fold current code block  |CMD + ]
+Fold at depth               |CMD + numbers)
+
+## Plugins
+vim-mode-plus       |https://atom.io/packages/vim-mode-plus
+git-plus            |https://github.com/akonwi/git-plus
+minimap             |https://github.com/atom-minimap/minimap
+typescript          |https://github.com/TypeStrong/atom-typescript
+atom-beautify       |https://github.com/Glavin001/atom-beautify ctrl-alt-b

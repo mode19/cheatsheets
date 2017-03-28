@@ -1,0 +1,9 @@
+# Eclipse-Eclipse Java IDE Cheat Sheet
+
+## General
+Show All Shortcuts      |CTRL - ?
+
+
+## Search
+Open search dialog      |CTRL + h
+
