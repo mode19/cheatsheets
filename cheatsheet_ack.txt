@@ -1,0 +1,8 @@
+#Ack-ack program
+
+## Search commands
+Search for specific file type               | ack --java SearchTerm
+
+## .ackrc stuff
+Ignore a folder (can use multiple)  | --ignore-dir=bower_components
+Set a custom file type              | --type-set=jrunner:ext:java,xhtml,html,sh,properties,xml
