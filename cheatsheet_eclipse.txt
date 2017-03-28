@@ -1,11 +1,17 @@
 # Eclipse-Eclipse Java IDE Cheat Sheet
 
 ## General
-Show All Shortcuts      |CTRL - ?
+Show available shortcuts    |CMD + shift + L
 
+## Files
+Open a resource i.e *.java    |CMD + shift + r
+Save a file                   |CMD + s
+Close a file                  |CMD + w
 
 ## Search
-Open search dialog      |CTRL + h
+Search dialog                 |ctrl + H
 
-## File Management
-Cycle through editors   |CMD+F6 / CMD+shift+F6
+## General
+Run a unit test               |CMD + alt + x then T
+Cylce Editors Next            |CMD-F6
+Cylce Editors Previous        |shift-CMD-F6
