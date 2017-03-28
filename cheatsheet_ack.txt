@@ -1,4 +1,4 @@
-#Ack-ack program
+# Ack-Beyond grep: https://beyondgrep.com/
 
 ## Search commands
 Search for specific file type               | ack --java SearchTerm
