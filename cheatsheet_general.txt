@@ -3,8 +3,9 @@
 ## git
 todo|todo
 
-## Awk
-todo|todo
+## diff
+Exclude .svn and target folder |-x --exclude
+One line output | -q --brief
 ## Unix commandline
 todo|todo
 ## cygwin tricks
