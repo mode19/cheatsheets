@@ -7,7 +7,7 @@ todo|todo
 Exclude .svn and target folder |-x --exclude
 One line output | -q --brief
 ## Unix commandline
-todo|todo
+hexdump check for UNIX line endings (0a) | hexdump -C
 ## cygwin tricks
 todo|todo
 ## dot language
