@@ -8,3 +8,12 @@ By ID (not name)            |#idattrvalue
 By class attribute          |.classvalue
 
 
+## Cool Ones
+By Name OR ID                      |//*[@id='X' or @name='X']
+<a> containingtext 't'            |//a[contains(text(),'t')]  ( can use @id, @href, @class etc...)
+nth child or last child of E      |//E/*[1] or  //E/*[last()]
+nth occurrence of E               |//E[1]  or //E[last()]
+
+##
+THE Cheatsheet |https://www.simple-talk.com/wp-content/uploads/imported/1269-Locators_table_1_0_2.pdf
+
