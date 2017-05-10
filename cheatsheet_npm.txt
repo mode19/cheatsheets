@@ -1,0 +1,14 @@
+# NPM: https://beyondgrep.com/
+
+## Folders
+Prefix path on linux                      | {prefix}=/usr/local
+Prefix path on Windows                    | location of node.exe
+Global library path on linx               | {prefix}/lib/node_modules
+Global library path on windows            | {prefix}/node_modules
+Global executable path on linux           | {prefix}/bin
+Global executables path on windows        | {prefix}
+
+
+## .ackrc stuff
+Ignore a folder (can use multiple)  | --ignore-dir=bower_components
+Set a custom file type              | --type-set=jrunner:ext:java,xhtml,html,sh,properties,xml
