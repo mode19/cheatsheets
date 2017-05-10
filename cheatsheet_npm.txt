@@ -1,14 +1,18 @@
 # NPM: https://beyondgrep.com/
 
-## Folders
+## Frequently Used
+Download depenencies from package.json  | npm install
+View current dependencies               | npm ls
+
+## Folders: https://docs.npmjs.com/files/folders
 Prefix path on linux                      | {prefix}=/usr/local
 Prefix path on Windows                    | location of node.exe
 Global library path on linx               | {prefix}/lib/node_modules
 Global library path on windows            | {prefix}/node_modules
 Global executable path on linux           | {prefix}/bin
 Global executables path on windows        | {prefix}
+Local executable path on linux + Windows  | ./node_modules/.bin
+Man pages (linux only)                    | {prefix}/share/man
+Cache                                     | npm config get cache
 
 
-## .ackrc stuff
-Ignore a folder (can use multiple)  | --ignore-dir=bower_components
-Set a custom file type              | --type-set=jrunner:ext:java,xhtml,html,sh,properties,xml
