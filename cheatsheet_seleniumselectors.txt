@@ -14,6 +14,8 @@ By Name OR ID                      |//*[@id='X' or @name='X']
 nth child or last child of E      |//E/*[1] or  //E/*[last()]
 nth occurrence of E               |//E[1]  or //E[last()]
 
-## The greatest selenium cheatsheet ever
+## Selenium Related Links
 THE Cheatsheet                    |https://www.simple-talk.com/wp-content/uploads/imported/1269-Locators_table_1_0_2.pdf
+Java selenium API docs            |http://seleniumhq.github.io/selenium/docs/api/java/index.html
+A great starter template          |ttps://github.com/Ardesco/Selenium-Maven-Template.git
 
