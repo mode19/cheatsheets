@@ -1,7 +1,7 @@
 # General-unsorted stuff
 
 ## git
-todo|todo
+Show remotes |git remote -v
 
 ## diff
 Exclude .svn and target folder |-x --exclude
