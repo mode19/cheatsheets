@@ -1,0 +1,10 @@
+# git-version control
+
+## git
+Show remotes                |git remote -v
+Save a stash                |git stash save "Working on some AWESOME stuff"
+List stashes                |git stash list
+Apply a stash by regex      |git stash apply stash^{/AWESOME}
+
+## links
+reference       |https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
