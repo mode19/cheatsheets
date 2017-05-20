@@ -1,4 +1,4 @@
-# NPM: https://beyondgrep.com/
+# NPM-https://beyondgrep.com/
 
 ## Frequently Used
 Download depenencies from package.json  | npm install
@@ -14,5 +14,3 @@ Global executables path on windows        | {prefix}
 Local executable path on linux + Windows  | ./node_modules/.bin
 Man pages (linux only)                    | {prefix}/share/man
 Cache                                     | npm config get cache
-
-
