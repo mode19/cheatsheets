@@ -19,3 +19,6 @@ THE Cheatsheet                    |https://www.simple-talk.com/wp-content/upload
 Java selenium API docs            |http://seleniumhq.github.io/selenium/docs/api/java/index.html
 A great starter template          |ttps://github.com/Ardesco/Selenium-Maven-Template.git
 
+
+## Strategies
+Find element does not exist         | use webdriver:findElements to see return 0 size
