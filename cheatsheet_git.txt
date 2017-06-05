@@ -6,5 +6,9 @@ Save a stash                |git stash save "Working on some AWESOME stuff"
 List stashes                |git stash list
 Apply a stash by regex      |git stash apply stash^{/AWESOME}
 
+## diffing different branches
+files different between branch      |git diff --stat master..minor_readme_change
+content different between branch    |git difftool master..minor_readme_change
+
 ## links
 reference       |https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
