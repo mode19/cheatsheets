@@ -6,3 +6,10 @@ Search for specific file type               | ack --java SearchTerm
 ## .ackrc stuff
 Ignore a folder (can use multiple)  | --ignore-dir=bower_components
 Set a custom file type              | --type-set=jrunner:ext:java,xhtml,html,sh,properties,xml
+
+## Regex examples
+White space                         | ack "\sSEARCH\s*"
+Double quotes in java files         | ack --java "\"string\""
+
+## links
+Perl regex                          | https://www.cs.tut.fi/~jkorpela/perl/regexp.html
