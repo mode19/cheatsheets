@@ -2,6 +2,7 @@
 
 ## Search commands
 Search for specific file type               | ack --java SearchTerm
+Ignore case                                 | ack -i searchterm
 
 ## .ackrc stuff
 Ignore a folder (can use multiple)  | --ignore-dir=bower_components
