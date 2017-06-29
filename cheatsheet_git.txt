@@ -9,7 +9,7 @@ Apply a stash by regex      |git stash apply stash^{/AWESOME}
 ## logs
 cool log format                 |git log --graph --full-history --all --color         --pretty=format:"%x1b[31m%h%x09%x1b[32m%d%x1b[0m%x20%s"
 simple log format               |git log --date=short --pretty=format:"_[%h]_%ad:[%aN]_ %s____________________"  -30 
-
+search logs                     | git -grep
 
 ## diffing
 compare 2 branches (overview)   |git diff --stat develop develop_adding_debuglogs
@@ -19,6 +19,8 @@ compare 2 branches (content)    |git difftool -y develop develop_adding_debuglog
 merge files                     |git mergetool
 
 
+## notes
+line-endings                    | when stuck and cannot 'checkout' local changes, try remove file from file system and then 'git pull'
 
 ## links
 reference       |https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control

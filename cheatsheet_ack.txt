@@ -3,6 +3,8 @@
 ## Search commands
 Search for specific file type               | ack --java SearchTerm
 Ignore case                                 | ack -i searchterm
+Search only files from 'find' command       | find adir -iname "bar*.c" | ack --files-from=- foo
+OR search                                   | ack 'string1|string2'
 
 ## .ackrc stuff
 Ignore a folder (can use multiple)  | --ignore-dir=bower_components
