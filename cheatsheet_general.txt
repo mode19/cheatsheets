@@ -14,3 +14,6 @@ todo|todo
 todo|todo
 ## gnuplot
 todo|todo
+
+## Restassured
+timeout settings | https://hc.apache.org/httpcomponents-client-4.2.x/tutorial/html/connmgmt.html
